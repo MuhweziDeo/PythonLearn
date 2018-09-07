@@ -4,6 +4,7 @@
 /man/
 /.pytest_cache/
 /__pycache__/
+/__pycache__/
 .json
 tests/.pytest_cache/
 tests//__pycache__/
