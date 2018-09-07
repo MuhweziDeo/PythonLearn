@@ -7,4 +7,4 @@
 .json
 tests/.pytest_cache/
 tests//__pycache__/
-.pyc
+*.pyc
